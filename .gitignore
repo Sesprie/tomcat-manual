@@ -1,6 +1,6 @@
 # 忽略所有bin、.settings文件夹
-*/.settings/
-*/bin/
+.settings/
+bin/
 
 *.classpath
 *.project
